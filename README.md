@@ -50,5 +50,5 @@ https://qr-code-challenge-seven-flax.vercel.app/
 - Figma for Beginners (Figma Learn) - https://help.figma.com/hc/en-us/sections/4405269443991-Figma-for-Beginners-4-parts 
 
 # Author
-Name: Jose Arturo Soraiz-Muniz
-Frontend Mentor: @jasm32
+- Name: Jose Arturo Soraiz-Muniz
+- Frontend Mentor: @jasm32
