@@ -17,10 +17,11 @@ This repository contains the code for the QR Code Challenge from Frontend Mentor
 # Overview
 
 ## Screenshot of qr-code-component
-
+Desktop = ./design/qr-code-desktop.jpg
+Mobile = ./design/qr-code-mobile.jpg
 
 ## Links to Live webpage
-
+https://qr-code-challenge-seven-flax.vercel.app/ 
 
 # My Process
 
@@ -38,10 +39,6 @@ This repository contains the code for the QR Code Challenge from Frontend Mentor
 ### Languages
 - HTML
 - CSS
-
-## Learned
-
-## Continous Development
 
 ## Resources
 
